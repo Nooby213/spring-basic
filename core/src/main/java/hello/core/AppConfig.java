@@ -12,7 +12,7 @@ import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 
 
-@Configuration // 설정 정보
+//@Configuration // 설정 정보
 public class AppConfig {
 
     @Bean // Spring container에 등록
